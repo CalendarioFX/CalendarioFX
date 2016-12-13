@@ -1,7 +1,28 @@
 {
+  "name": "calendariofx",
+  "description": "Work in Progress",
+  "version": "0.0.1-alpha.1",
+  "main": "config.js",
   "jspm": {
     "devDependencies": {
       "typescript": "npm:typescript@^2.0.7"
     }
-  }
+  },
+  "dependencies": {
+    "jspm": "^0.16.48"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalendarioFX/CalendarioFX.git"
+  },
+  "author": "Devi Prasad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CalendarioFX/CalendarioFX/issues"
+  },
+  "homepage": "https://github.com/CalendarioFX/CalendarioFX#readme"
 }
